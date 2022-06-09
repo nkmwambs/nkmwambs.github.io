@@ -11,6 +11,6 @@ Welcome to the [FCP Toolkit System](https://compassion-africa.org)
 
 
 ## FCP Features
-## [Budgeting](https://nkmwambs.github.io/docs/toolkit/budgeting)
-## [Vouching](https://nkmwambs.github.io/docs/toolkit/vouching)
+## [Budgeting](/docs/toolkit/budgeting)
+## [Vouching](/docs/toolkit/vouching)
 
